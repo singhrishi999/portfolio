@@ -1,4 +1,4 @@
-Drew Hays - Get your product identity from me.
+rishi raj - Get your product identity from me.
 
 This is a personal portfolio html template made by codewithsadee
 
@@ -30,9 +30,9 @@ aria-label = open menu
 
 #---------- HERO ----------#
 
-alt = Drew Hays
+alt = rishi raj
 
-Drew Hays
+rishi raj
 
 Get Your Product Identity From Me.
 
@@ -78,13 +78,13 @@ A very small stage in a vast cosmic.
 A very small stage in a vast cosmic arena great turbuslent clouds encyclo-paedia galactica star stuff harvesting star light the carbon in our apple pies realm of the galaxies
 
 Name
-Drew Hays
+rishi raj
 
 Phone Number
-123. 456. 789. 01
+6202976008
 
 Email Address
-info@drew.com
+rishi55965596@gmail.com
 
 Social Network
 
@@ -177,9 +177,9 @@ Cloud Migration & AWS Services
 
 The average national hourly rate for house cleaning services is $25 to $90 per individual, or $50 to $90 per hour. The size and condition of your home will strongly impact the price of these.
 
-Alexis browni JR.
+rishi raj.
 
-Founder of alxis co.
+Founder .
 
 
 
@@ -201,13 +201,12 @@ map src = https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d898.432923926709
 alt = contact icon
 
 869. 368. 456. 56
-789 (569) 126 35
+6202976008
 
 30- 24 Newtown Rd, Queens,
 NY 11103, USA
 
-info@drew.com
-jobs@drew.com
+rishi55965596@gmail.com
 
 
 
